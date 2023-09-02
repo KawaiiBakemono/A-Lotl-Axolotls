@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/Yrno06H.png" width="200px">
+</p>
+
 # A'Lotl Axolotls
 
 Current version: 1.0
