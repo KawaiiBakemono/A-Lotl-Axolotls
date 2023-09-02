@@ -23,6 +23,8 @@ A: I didn't know until I made this pack! While both are genetic mutations, albin
 ## Known Issues
 
 - The custom axolotl texture is not represented when placed in a bucket, only the variant, due to the limitations of CIT. For example, an Axolotl Bucket containing a variant 0 axolotl bearing the Lavender texture will only show the Lucy texture. However, do not worry! The texture of the entity within the bucket will remain the same.
+- Axolotls caught in buckets will not retain their CIT texture.
+- When using CIT Resewen, CIT items placed in item frames will display the default texture. This does not affect Optifine users. See bug report [here.](https://github.com/SHsuperCM/CITResewn/issues/313)
 
 ## Licensing
 This project is licensed with LGPL v3.0. Please don't repost this project anywhere without my written permission first.
