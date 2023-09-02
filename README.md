@@ -1,4 +1,4 @@
-# A-Lotl-Axolotls
+# A'Lotl Axolotls
 
 Current version: 1.0
 
@@ -12,13 +12,13 @@ Q: "What's the difference between leucistic and albino?"<br/>
 A: I didn't know until I made this pack! While both are genetic mutations, albinism is an absence of melanin, while leucism is a reduction of all types of pigmentation, not just melanin, so they may have muted or patchy coloring. Leucism can also vary between individuals.
 
 ## Goals
-- Adding the option to nametag axolotls for a specific skin instead of finding a naturally spawning one. This may be added to the base pack or released as a seperate one (most likely the latter).
-- Adding CIT bucket textures for nametagged axolotls.
-- Maybe an albino axolotl? It looks kinda creepy if you do it wrong. But maybe!
+- Add the option to nametag axolotls for a specific skin instead of finding a naturally spawning one. This may be added to the base pack or released as a seperate one (most likely the latter).
+- Add CIT bucket textures for nametagged axolotls.
+- Add an albino axolotl? It looks kinda creepy if you do it wrong. But maybe!
 
 ## Known Issues
 
-- The custom axolotl texture is not represented when placed in a bucket, only the variant due to the limitations of CIT. For example, an Axolotl Bucket containing a variant 0 axolotl bearing the Lavender texture will only show the Lucy texture. However, do not worry! The texture of the entity itself will remain the same.
+- The custom axolotl texture is not represented when placed in a bucket, only the variant, due to the limitations of CIT. For example, an Axolotl Bucket containing a variant 0 axolotl bearing the Lavender texture will only show the Lucy texture. However, do not worry! The texture of the entity within the bucket will remain the same.
 
 ## Licensing
 This project is licensed with LGPL v3.0. Please don't repost this project anywhere without my written permission first.
