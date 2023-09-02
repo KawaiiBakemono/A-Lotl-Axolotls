@@ -12,9 +12,9 @@ Q: "What's the difference between leucistic and albino?"<br/>
 A: I didn't know until I made this pack! While both are genetic mutations, albinism is an absence of melanin, while leucism is a reduction of all types of pigmentation, not just melanin, so they may have muted or patchy coloring. Leucism can also vary between individuals.
 
 ## Goals
-- Adding the option to nametag axolotls for a specific skin instead of finding a naturally spawning one. This may 
+- Adding the option to nametag axolotls for a specific skin instead of finding a naturally spawning one. This may be added to the base pack or released as a seperate one (most likely the latter).
 - Adding CIT bucket textures for nametagged axolotls.
-- Maybe an albino axolotl
+- Maybe an albino axolotl? It looks kinda creepy if you do it wrong. But maybe!
 
 ## Known Issues
 
