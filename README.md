@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Yrno06H.png" width="200px">
+  <img src="https://i.imgur.com/V83c6lB.png" width="500px">
 </p>
 
 # A'Lotl Axolotls
