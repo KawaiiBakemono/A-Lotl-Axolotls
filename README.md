@@ -20,11 +20,17 @@ A: I didn't know until I made this pack! While both are genetic mutations, albin
 - Add CIT bucket textures for nametagged axolotls.
 - Add an albino axolotl? It looks kinda creepy if you do it wrong. But maybe!
 
+### Mod Migration
+- At some point I want to make the skins more dynamic to get, such as breeding a Lucy with a Melanoid having the chance to prodcuce a Chimera baby. Also currently Chimera and GFP axolotls are locked behind Blue, which can only be bred. I may change this so they spawn naturally, albiet rarely.
+- In reality, I want Blue axolotls to spawn naturally (with their vanilla 0.083% chance of course).
+- Both Chimera and GFP Axolotls will remain rare, just not as rare as Blue.
+- This might only be accomplishable by either finding a supplementary mod or just making one myself.
+
 ## Known Issues
 
 - The custom axolotl texture is not represented when placed in a bucket, only the variant, due to the limitations of CIT. For example, an Axolotl Bucket containing a variant 0 axolotl bearing the Lavender texture will only show the Lucy texture. However, do not worry! The texture of the entity within the bucket will remain the same.
 - Axolotls caught in buckets will not retain their CIT texture.
-- When using CIT Resewen, CIT items placed in item frames will display the default texture. This does not affect Optifine users. See bug report [here.](https://github.com/SHsuperCM/CITResewn/issues/313)
+- When using CIT Resewen, CIT items placed in item frames will display the default texture. This does not affect Optifine users. See bug report [here (CIT Resewn - Issue 313)](https://github.com/SHsuperCM/CITResewn/issues/313)
 
 ## Licensing
 This project is licensed with LGPL v3.0. Please don't repost this project anywhere without my written permission first.
