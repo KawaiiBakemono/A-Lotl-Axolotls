@@ -30,7 +30,13 @@ A: I didn't know until I made this pack! While both are genetic mutations, albin
 
 - The custom axolotl texture is not represented when placed in a bucket, only the variant, due to the limitations of CIT. For example, an Axolotl Bucket containing a variant 0 axolotl bearing the Lavender texture will only show the Lucy texture. However, do not worry! The texture of the entity within the bucket will remain the same.
 - Axolotls caught in buckets will not retain their CIT texture.
-- When using CIT Resewen, CIT items placed in item frames will display the default texture. This does not affect Optifine users. See bug report [here (CIT Resewn - Issue 313)](https://github.com/SHsuperCM/CITResewn/issues/313)
+- When pairing Optifine/CIT Resewn with [Entity Culling](https://modrinth.com/mod/moreculling), items will not display their CIT texture in Item Frames.
+  - Current workaround: Use [Entity Culling](https://modrinth.com/mod/entityculling) instead.
+
+```json
+"minecraft:item_frame",
+"minecraft:glow_item_frame"
+```
 
 ## Licensing
 This project is licensed with LGPL v3.0. Please don't repost this project anywhere without my written permission first.
