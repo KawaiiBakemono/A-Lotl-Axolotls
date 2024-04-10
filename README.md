@@ -35,7 +35,7 @@ A: I didn't know until I made this pack! While both are genetic mutations, albin
   - Or, use [Entity Culling](https://modrinth.com/mod/entityculling) instead (this is what I use personally).
 
 ## Licensing
-This project is licensed with LGPL v3.0. Please don't repost this project anywhere without my written permission first.
+This project is licensed with GPL v3.0. Please don't repost this project anywhere without my written permission first.
 
 ## Credits
 - Blazified for the CIT Axolotl Buckets! Check out their pack [here.](https://www.planetminecraft.com/texture-pack/colored-axolotl-buckets-with-babies/)
