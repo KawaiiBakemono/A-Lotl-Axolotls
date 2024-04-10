@@ -7,7 +7,7 @@
 Current version: 1.0.0
 
 This is the official pack repository for A'Lotl Axolotls! Feel free to report any bugs or leave suggestions in the [Issues](https://github.com/LunaBytes/A-Lotl-Axolotls/issues) tab.
-Check out more of my packs at [LunaByte](https://www.planetminecraft.com/member/kawaiibakemono/) on Planet Minecraft!
+Check out more of my packs at [KawaiiBakemono](https://www.planetminecraft.com/member/kawaiibakemono/) on Planet Minecraft!
 
 Q: _"Will you add the firefly axolotl?"_<br/>
 A: No, firefly axolotls were genetically engineered and are not naturally occuring. Then why is the chimera in here? Chimera axolotls can occur naturally! My goal is to only add natural and realistic species to this pack.
